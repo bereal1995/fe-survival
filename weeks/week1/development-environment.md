@@ -65,9 +65,9 @@ fnm use {version}
 
 - npm 명령어를 통해 패키지를 설치하면 자동으로 생성되는 파일
 - package.json에 ~(틸드), ^(캐럿) 등의 표시가 있으면 package-lock.json에는 정확한 버전의 패키지를 다운받기 위한 정보가 담김
-  > [major, minor, patch] 버전에서
-  > 틸드(~)는 patch 버전까지만 업데이트 허용
-  > 캐럿(^)은 minor 버전까지만 업데이트 허용
+  > [major, minor, patch] 버전에서  
+  > 틸드(~)는 patch 버전까지만 업데이트 허용  
+  > 캐럿(^)은 minor 버전까지만 업데이트 허용  
   > [정확하게 알아보기](https://semver.npmjs.com/)
 - package-lock.json은 버전을 고정시키는 역할을 하기 때문에 버전을 업데이트하고 싶다면 삭제 후 다시 설치해야 함
 - 따라서 여러환경에서 작업을 하고 있다면 깃허브에 올릴 때 package-lock.json을 함께 올리는 것이 좋음
