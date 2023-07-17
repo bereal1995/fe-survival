@@ -20,7 +20,7 @@
   <tbody>
     <tr>
       <td>개발 환경</td>
-      <td><a href="./development-environment.md">init.md</a></td>
+      <td><a href="./development-environment.md">development-environment.md</a></td>
     </tr>
   </tbody>
 </table>
