@@ -4,8 +4,8 @@
 
 ## 학습 내용
 
-- [ ] [개발 환경](./development-environment.md)
-- [ ] [Typescript]()
+- [x] [개발 환경](./development-environment.md)
+- [x] [Typescript](./typescript.md)
 - [ ] [React]()
 - [ ] [Testing Library]()
 - [ ] [Parcel & ESLint]()
@@ -21,6 +21,10 @@
     <tr>
       <td>개발 환경</td>
       <td><a href="./development-environment.md">development-environment.md</a></td>
+    </tr>
+    <tr>
+      <td>타입스크립트</td>
+      <td><a href="./typescript.md">typescript</a></td>
     </tr>
   </tbody>
 </table>
