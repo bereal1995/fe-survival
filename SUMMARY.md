@@ -7,6 +7,7 @@
 - [week0](/weeks/week0/init.md)
 - [week1](/weeks/week1/init.md)
   - [개발환경](/weeks/week1/development-environment.md)
+  - [타입스크립트](/weeks/week1/typescript.md)
 
 ## Others
 
