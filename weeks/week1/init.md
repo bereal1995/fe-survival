@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td>타입스크립트</td>
-      <td><a href="./typescript.md">typescript</a></td>
+      <td><a href="./typescript.md">typescript.md</a></td>
     </tr>
   </tbody>
 </table>
