@@ -34,3 +34,27 @@
   </tbody>
 </table>
 ```
+
+## 힌트 만들기
+
+{% hint style="info" %}
+style에는 success, info, warning, danger가 있습니다.
+{% endhint %}
+
+## 아코디언 만들기
+
+<details>
+
+<summary>아코디언 제목</summary>
+
+아코디언 내용
+
+</details>
+
+## 구분선 만들기
+
+***
+
+## 인용구 만들기
+
+> 인용구 내용
