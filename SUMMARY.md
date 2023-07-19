@@ -9,6 +9,7 @@
   - [개발환경](/weeks/week1/development-environment.md)
   - [타입스크립트](/weeks/week1/typescript.md)
   - [리액트](/weeks/week1/react.md)
+  - [TestingLibrary](/weeks/week1/testing-library.md)
 
 ## Others
 

@@ -7,7 +7,7 @@
 - [x] [개발 환경](./development-environment.md)
 - [x] [Typescript](./typescript.md)
 - [x] [React](./react.md)
-- [ ] [Testing Library]()
+- [x] [Testing Library](./testing-library.md)
 - [ ] [Parcel & ESLint]()
 
 <table data-view="cards">
@@ -29,6 +29,10 @@
     <tr>
       <td>리액트</td>
       <td><a href="./react.md">react.md</a></td>
+    </tr>
+    <tr>
+      <td>Testing Library</td>
+      <td><a href="./testing-library.md">testing-library.md</a></td>
     </tr>
   </tbody>
 </table>
