@@ -2,15 +2,12 @@
 
 ## 링크블럭 만들기
 
-```md
 {% content-ref url="{{링크주소}}" %}
 [{링크이름}]({{링크주소}})
 {% endcontent-ref %}
-```
 
 ## 카드블럭 만들기
 
-```md
 <table data-view="cards">
   <thead>
     <tr>
@@ -33,7 +30,6 @@
     </tr>
   </tbody>
 </table>
-```
 
 ## 힌트 만들기
 
