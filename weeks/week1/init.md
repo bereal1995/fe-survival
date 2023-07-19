@@ -6,7 +6,7 @@
 
 - [x] [개발 환경](./development-environment.md)
 - [x] [Typescript](./typescript.md)
-- [ ] [React]()
+- [x] [React](./react.md)
 - [ ] [Testing Library]()
 - [ ] [Parcel & ESLint]()
 
@@ -25,6 +25,10 @@
     <tr>
       <td>타입스크립트</td>
       <td><a href="./typescript.md">typescript.md</a></td>
+    </tr>
+    <tr>
+      <td>리액트</td>
+      <td><a href="./react.md">react.md</a></td>
     </tr>
   </tbody>
 </table>
