@@ -4,12 +4,6 @@
 
 ## 학습 내용
 
-- [x] [개발 환경](./development-environment.md)
-- [x] [Typescript](./typescript.md)
-- [x] [React](./react.md)
-- [x] [Testing Library](./testing-library.md)
-- [ ] [Parcel & ESLint]()
-
 <table data-view="cards">
   <thead>
     <tr>
@@ -33,6 +27,10 @@
     <tr>
       <td>Testing Library</td>
       <td><a href="./testing-library.md">testing-library.md</a></td>
+    </tr>
+    <tr>
+      <td>Parcel & ESLint</td>
+      <td><a href="./parcel-eslint.md">parcel-eslint.md</a></td>
     </tr>
   </tbody>
 </table>
