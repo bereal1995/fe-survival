@@ -11,6 +11,8 @@
   - [리액트](/weeks/week1/react.md)
   - [TestingLibrary](/weeks/week1/testing-library.md)
   - [Parcel&ESLint](/weeks/week1/parcel-eslint.md)
+- [week2](/weeks/week2/init.md)
+  - [JSX](/weeks/week2/jsx.md)
 
 ## Others
 
