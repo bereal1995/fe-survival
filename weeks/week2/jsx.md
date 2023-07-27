@@ -64,8 +64,6 @@ const element = React.createElement(
 - 자바스크립트를 공부하다보면 자주 만나는 키워드이다.
 - jsx관점에서 보았을 경우 친숙한 문법(마크업)으로 작성하고 React함수(createElement)로 변환(jsx컴파일러)을 해주는 작업을 문법적 설탕으로 볼 수 있다.
 
-## 리액트에서 jsx 기존과 새로운 방법
-
 ## React.createElement
 
 - 리액트 엘리먼트를 만드는 함수
