@@ -13,6 +13,8 @@
   - [Parcel&ESLint](/weeks/week1/parcel-eslint.md)
 - [week2](/weeks/week2/init.md)
   - [JSX](/weeks/week2/jsx.md)
+- [week3](/weeks/week3/init.md)
+  - [ReactComponent](/weeks/week3/react-component.md)
 
 ## Others
 
