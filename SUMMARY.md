@@ -15,6 +15,7 @@
   - [JSX](/weeks/week2/jsx.md)
 - [week3](/weeks/week3/init.md)
   - [ReactComponent](/weeks/week3/react-component.md)
+  - [ReactState](/weeks/week3/react-state.md)
 
 ## Others
 
