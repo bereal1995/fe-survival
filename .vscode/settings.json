@@ -14,9 +14,5 @@
       ]
     }
   },
-  "cSpell.words": [
-    "pakage",
-    "servor",
-    "VDOM"
-  ]
+  "cSpell.words": ["fastify", "pakage", "servor", "VDOM"]
 }

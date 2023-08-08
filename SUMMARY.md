@@ -16,6 +16,8 @@
 - [week3](/weeks/week3/init.md)
   - [ReactComponent](/weeks/week3/react-component.md)
   - [ReactState](/weeks/week3/react-state.md)
+- [week3](/weeks/week4/init.md)
+  - [Express](/weeks/week3/express.md)
 
 ## Others
 
