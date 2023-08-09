@@ -16,5 +16,9 @@
       <td>express</td>
       <td><a href="./express.md">express.md</a></td>
     </tr>
+    <tr>
+      <td>Fetch API & CORS</td>
+      <td><a href="./fetch-cors.md">fetch-cors.md</a></td>
+    </tr>
   </tbody>
 </table>

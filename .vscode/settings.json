@@ -10,7 +10,8 @@
         "td",
         "a",
         "details",
-        "summary"
+        "summary",
+        "br"
       ]
     }
   },
