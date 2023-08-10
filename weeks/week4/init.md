@@ -20,5 +20,9 @@
       <td>Fetch API & CORS</td>
       <td><a href="./fetch-cors.md">fetch-cors.md</a></td>
     </tr>
+    <tr>
+      <td>React Hooks</td>
+      <td><a href="./react-hooks.md">react-hooks.md</a></td>
+    </tr>
   </tbody>
 </table>
