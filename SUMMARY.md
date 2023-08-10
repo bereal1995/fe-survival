@@ -15,7 +15,7 @@
 * [week3](weeks/week3/init.md)
   * [ReactComponent](weeks/week3/react-component.md)
   * [ReactState](weeks/week3/react-state.md)
-* [wee4](weeks/week4/init.md)
+* [week4](weeks/week4/init.md)
   * [Express](weeks/week4/express.md)
   * [Fetch API & CORS](weeks/week4/fetch-cors.md)
 
