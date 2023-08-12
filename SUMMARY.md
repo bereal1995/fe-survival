@@ -20,6 +20,7 @@
   * [Fetch API & CORS](weeks/week4/fetch-cors.md)
   * [React Hooks](/weeks/week4/react-hooks.md)
   * [useRef & CustomHook](/weeks/week4/useref-custom-hook.md)
+  * [usehooks-ts](/weeks/week4/usehooks-ts.md)
 
 ## Others
 

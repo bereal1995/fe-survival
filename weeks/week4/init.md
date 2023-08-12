@@ -28,5 +28,9 @@
       <td>useRef & CustomHook</td>
       <td><a href="./useref-custom-hook.md">useref-custom-hook.md</a></td>
     </tr>
+    <tr>
+      <td>usehooks-ts</td>
+      <td><a href="./usehooks-ts.md">usehooks-ts.md</a></td>
+    </tr>
   </tbody>
 </table>
