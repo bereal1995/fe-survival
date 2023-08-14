@@ -17,7 +17,7 @@ description: TypeScript에 대해 알아보자
 
 `타입스크립트는 자바스크립트를 기반으로 하는 강력한 프로그래밍 언어로, 규모에 관계없이 더 나은 툴을 제공합니다.` 라고 사이트에 나와 있다
 
-### Interface vs Type
+### [Interface vs Type](https://www.typescriptlang.org/ko/docs/handbook/2/everyday-types.html#%ED%83%80%EC%9E%85-%EB%B3%84%EC%B9%AD%EA%B3%BC-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
 - 둘이 매우 유사하다.
 - 큰 차이는 타입은 새 프로퍼티를 추가하도록 개방될 수 없고, 인터페이스는 확장할 수 있다.
@@ -84,7 +84,7 @@ description: TypeScript에 대해 알아보자
 - 문서에는 우선 interface를 사용하고 이후 문제가 발생하였을 때 type을 사용하라고 나와있다.
 - 개인적인 생각은 interface, Type은 개인적인 선호에 따라 사용하면 괜찮다고 생각하지만, 프로젝트마다 어느정도 컨벤션을 정해 일관성 있게 사용하는 것이 더 중요하다고 생각이 든다.
 
-### 타입 추론
+### [타입 추론](https://www.typescriptlang.org/ko/docs/handbook/typescript-in-5-minutes.html#%ED%83%80%EC%9E%85-%EC%B6%94%EB%A1%A0-types-by-inference)
 
 typescript는 Javascript 언어를 알고 있어 대부분의 경우 타입을 생성해준다. 예를 들어 변수를 생성할때 값을 할당하면 그 값을 변수의 타입으로 지정해준다.
   
@@ -94,7 +94,7 @@ typescript는 Javascript 언어를 알고 있어 대부분의 경우 타입을 �
   foo = '123' // Type 'string' is not assignable to type 'number'.
   ```
 
-### Union Type vs Intersection Type
+### [Union Type](https://www.typescriptlang.org/ko/docs/handbook/typescript-in-5-minutes.html#%EC%9C%A0%EB%8B%88%EC%96%B8-unions) vs [Intersection Type](https://www.typescriptlang.org/docs/handbook/2/objects.html#intersection-types)
 
 - Union Type은
   - `|`를 사용하여 표현한다.
@@ -125,7 +125,7 @@ typescript는 Javascript 언어를 알고 있어 대부분의 경우 타입을 �
 
   ```
 
-### Optional Parameter
+### [Optional Parameter](https://www.typescriptlang.org/docs/handbook/2/functions.html#optional-parameters)
 
 - 함수의 파라미터에 `?`를 붙여서 사용한다.
 
