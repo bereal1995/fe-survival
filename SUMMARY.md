@@ -21,6 +21,9 @@
   * [React Hooks](/weeks/week4/react-hooks.md)
   * [useRef & CustomHook](/weeks/week4/useref-custom-hook.md)
   * [usehooks-ts](/weeks/week4/usehooks-ts.md)
+* [week5](weeks/week5/init.md)
+  * [TDD](weeks/week5/tdd.md)
+  * [ReactTestingLibrary](weeks/week5/rtl.md)
 
 ## Others
 
