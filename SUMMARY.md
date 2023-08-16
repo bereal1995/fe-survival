@@ -24,6 +24,7 @@
 * [week5](weeks/week5/init.md)
   * [TDD](weeks/week5/tdd.md)
   * [ReactTestingLibrary](weeks/week5/rtl.md)
+  * [MSW](weeks/week5/msw.md)
 
 ## Others
 

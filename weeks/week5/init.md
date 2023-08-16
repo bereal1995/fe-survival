@@ -20,5 +20,9 @@
       <td>ReactTestingLibrary</td>
       <td><a href="./rtl.md">rtl.md</a></td>
     </tr>
+    <tr>
+      <td>MSW</td>
+      <td><a href="./msw.md">msw.md</a></td>
+    </tr>
   </tbody>
 </table>
