@@ -15,5 +15,14 @@
       ]
     }
   },
-  "cSpell.words": ["fastify", "pakage", "servor", "usehooks", "useref", "VDOM"]
+  "cSpell.words": [
+    "Codecept",
+    "endhint",
+    "fastify",
+    "pakage",
+    "servor",
+    "usehooks",
+    "useref",
+    "VDOM"
+  ]
 }

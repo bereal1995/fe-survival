@@ -24,5 +24,9 @@
       <td>MSW</td>
       <td><a href="./msw.md">msw.md</a></td>
     </tr>
+    <tr>
+      <td>Playwright</td>
+      <td><a href="./playwright.md">playwright.md</a></td>
+    </tr>
   </tbody>
 </table>
