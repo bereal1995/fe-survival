@@ -28,6 +28,7 @@
   * [Playwright](weeks/week5/playwright.md)
 * [week6](weeks/week6/init.md)
   * [External Store](weeks/week6/external-store.md)
+  * [TSyringe](weeks/week6/t-syringe.md)
 
 ## Others
 

@@ -21,6 +21,7 @@
     "fastify",
     "pakage",
     "servor",
+    "tsyringe",
     "usehooks",
     "useref",
     "VDOM"

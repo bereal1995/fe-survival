@@ -16,4 +16,8 @@
       <td>External Store</td>
       <td><a href="./external-store.md">external-store.md</a></td>
     </tr>
+    <tr>
+      <td>TSyringe</td>
+      <td><a href="./t-syringe.md">t-syringe.md</a></td>
+    </tr>
 </table>
