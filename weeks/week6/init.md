@@ -20,4 +20,8 @@
       <td>TSyringe</td>
       <td><a href="./t-syringe.md">t-syringe.md</a></td>
     </tr>
+    <tr>
+      <td>Redux</td>
+      <td><a href="./redux.md">redux.md</a></td>
+    </tr>
 </table>
