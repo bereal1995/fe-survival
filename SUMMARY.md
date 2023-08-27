@@ -30,6 +30,7 @@
   * [External Store](weeks/week6/external-store.md)
   * [TSyringe](weeks/week6/t-syringe.md)
   * [Redux](weeks/week6/redux.md)
+  * [usestore-ts](weeks/week6/usestore-ts.md)
 
 ## Others
 

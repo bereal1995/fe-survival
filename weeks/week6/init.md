@@ -24,4 +24,8 @@
       <td>Redux</td>
       <td><a href="./redux.md">redux.md</a></td>
     </tr>
+    <tr>
+      <td>usestore-ts</td>
+      <td><a href="./usestore-ts.md">usestore-ts.md</a></td>
+    </tr>
 </table>
