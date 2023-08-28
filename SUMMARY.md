@@ -33,6 +33,7 @@
   * [usestore-ts](weeks/week6/usestore-ts.md)
 * [week7](weeks/week7/init.md)
   * [Routing](weeks/week7/routing.md)
+  * [Routes](weeks/week7/routes.md)
 
 ## Others
 

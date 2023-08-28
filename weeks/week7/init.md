@@ -16,4 +16,8 @@ React에서 라우팅 처리에 대해 배워봅시다.
       <td>Routing</td>
       <td><a href="./routing.md">routing.md</a></td>
     </tr>
+    <tr>
+      <td>Routes</td>
+      <td><a href="./routes.md">routes.md</a></td>
+    </tr>
 </table>
