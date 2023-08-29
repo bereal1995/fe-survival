@@ -35,6 +35,7 @@
   * [Routing](weeks/week7/routing.md)
   * [Routes](weeks/week7/routes.md)
   * [Router](weeks/week7/router.md)
+  * [Navigation](weeks/week7/navigation.md)
 
 ## Others
 
