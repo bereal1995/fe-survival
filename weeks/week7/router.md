@@ -1,10 +1,10 @@
 ---
-description: Router에 대해 알아보자
+description: RouterProvider에 대해 알아보자
 ---
 
 # Router
 
-## ReactRouter - RouterProvider
+## [ReactRouter - RouterProvider](https://reactrouter.com/en/main/routers/router-provider)
 
 React Router v6.4부터는 `RouterProvider`를 지원한다.  
 `RouterProvider`를 사용하면 라우팅 처리를 별도의 파일로 관리하기 더 편리하다.
