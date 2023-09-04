@@ -36,6 +36,8 @@
   * [Routes](weeks/week7/routes.md)
   * [Router](weeks/week7/router.md)
   * [Navigation](weeks/week7/navigation.md)
+* [week8](weeks/week8/init.md)
+  * [Design System](weeks/week8/designSystem.md)
 
 ## Others
 
