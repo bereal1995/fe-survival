@@ -14,6 +14,10 @@
   <tbody>
     <tr>
       <td>Design System</td>
-      <td><a href="./designSystem.md">designSystem.md</a></td>
+      <td><a href="./design-system.md">design-system.md</a></td>
+    </tr>
+    <tr>
+      <td>Style Basics</td>
+      <td><a href="./styleBasics.md">styleBasics.md</a></td>
     </tr>
 </table>

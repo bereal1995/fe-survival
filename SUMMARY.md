@@ -37,7 +37,8 @@
   * [Router](weeks/week7/router.md)
   * [Navigation](weeks/week7/navigation.md)
 * [week8](weeks/week8/init.md)
-  * [Design System](weeks/week8/designSystem.md)
+  * [Design System](weeks/week8/design-system.md)
+  * [Style Basics](weeks/week8/style-basics.md)
 
 ## Others
 
