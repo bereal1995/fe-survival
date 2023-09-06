@@ -20,4 +20,8 @@
       <td>Style Basics</td>
       <td><a href="./styleBasics.md">styleBasics.md</a></td>
     </tr>
+    <tr>
+      <td>CSS in JS</td>
+      <td><a href="./css-in-js.md">css-in-js.md</a></td>
+    </tr>
 </table>

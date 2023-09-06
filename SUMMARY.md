@@ -39,6 +39,7 @@
 * [week8](weeks/week8/init.md)
   * [Design System](weeks/week8/design-system.md)
   * [Style Basics](weeks/week8/style-basics.md)
+  * [CSS in JS](weeks/week8/css-in-js.md)
 
 ## Others
 
