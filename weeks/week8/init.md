@@ -24,4 +24,8 @@
       <td>CSS in JS</td>
       <td><a href="./css-in-js.md">css-in-js.md</a></td>
     </tr>
+    <tr>
+      <td>styled-components</td>
+      <td><a href="./styled-components.md">styled-components.md</a></td>
+    </tr>
 </table>
