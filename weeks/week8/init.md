@@ -32,4 +32,8 @@
       <td>props와 attrs</td>
       <td><a href="./props-attrs.md">props-attrs.md</a></td>
     </tr>
+    <tr>
+      <td>Global Style & Theme</td>
+      <td><a href="./global-styled-theme.md">global-styled-theme.md</a></td>
+    </tr>
 </table>
