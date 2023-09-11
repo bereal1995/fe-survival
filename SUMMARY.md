@@ -41,6 +41,7 @@
   * [Style Basics](weeks/week8/style-basics.md)
   * [CSS in JS](weeks/week8/css-in-js.md)
   * [styled-components](weeks/week8/styled-components.md)
+  * [props-attrs](weeks/week8/props-attrs.md)
 
 ## Others
 

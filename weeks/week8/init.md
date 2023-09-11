@@ -28,4 +28,8 @@
       <td>styled-components</td>
       <td><a href="./styled-components.md">styled-components.md</a></td>
     </tr>
+    <tr>
+      <td>props와 attrs</td>
+      <td><a href="./props-attrs.md">props-attrs.md</a></td>
+    </tr>
 </table>
