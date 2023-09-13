@@ -20,4 +20,8 @@
       <td>목록 보기</td>
       <td><a href="./list-view.md">list-view.md</a></td>
     </tr>
+    <tr>
+      <td>상품 상세 보기</td>
+      <td><a href="./product-detail-view.md">product-detail-view.md</a></td>
+    </tr>
 </table>
