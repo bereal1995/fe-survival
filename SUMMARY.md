@@ -48,6 +48,7 @@
   * [목록 보기](weeks/week9/list-view.md)
   * [상품 상세 보기](weeks/week9/product-detail-view.md)
   * [장바구니 보기](weeks/week9/shopping-cart-view.md)
+  * [장바구니에 상품 담기](weeks/week9/shopping-cart-add.md)
 
 ## Others
 

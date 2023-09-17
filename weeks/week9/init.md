@@ -28,4 +28,8 @@
       <td>장바구니 보기</td>
       <td><a href="./shopping-cart-view.md">shopping-cart-view.md</a></td>
     </tr>
+    <tr>
+      <td>장바구니에 상품 담기</td>
+      <td><a href="./shopping-cart-add.md">shopping-cart-add.md</a></td>
+    </tr>
 </table>
