@@ -47,6 +47,7 @@
   * [개발하기 전 준비](weeks/week9/before-development.md)
   * [목록 보기](weeks/week9/list-view.md)
   * [상품 상세 보기](weeks/week9/product-detail-view.md)
+  * [장바구니 보기](weeks/week9/shopping-cart-view.md)
 
 ## Others
 
